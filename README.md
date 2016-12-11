@@ -1,0 +1,2 @@
+# akademikmenu
+menu akademik
